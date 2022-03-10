@@ -1,0 +1,16 @@
+{
+  "name": "link-cleaner-cli",
+  "version": "1.0.0",
+  "description": "A CLI command to clean links to remove tracking parameters and etc.",
+  "type": "module",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Debopam Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "meow": "^10.1.2"
+  }
+}
