@@ -11,6 +11,7 @@
   "author": "Debopam Gupta",
   "license": "MIT",
   "dependencies": {
-    "meow": "^10.1.2"
+    "meow": "^10.1.2",
+    "normalize-url": "^7.0.3"
   }
 }
