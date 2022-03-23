@@ -6,7 +6,9 @@
   "bin": "index.js",
   "type": "module",
   "exports": "./index.js",
-  "scripts": {},
+  "scripts": {
+    "test": ""
+  },
   "keywords": [
     "cli-app",
     "cli",
