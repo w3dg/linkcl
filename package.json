@@ -1,6 +1,6 @@
 {
   "name": "linkcl",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A CLI command to clean links to remove tracking parameters and etc.",
   "main": "index.js",
   "bin": "index.js",
