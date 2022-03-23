@@ -1,13 +1,22 @@
 {
-  "name": "link-cleaner-cli",
+  "name": "linkcl",
   "version": "1.0.0",
   "description": "A CLI command to clean links to remove tracking parameters and etc.",
+  "main": "index.js",
+  "bin": "index.js",
   "type": "module",
   "exports": "./index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "scripts": {},
+  "keywords": [
+    "cli-app",
+    "cli",
+    "links",
+    "clean",
+    "link-cleaner",
+    "remove-tracking",
+    "remove-tracking-parameters",
+    "clean-links"
+  ],
   "author": "Debopam Gupta",
   "license": "MIT",
   "dependencies": {
