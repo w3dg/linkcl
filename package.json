@@ -22,6 +22,7 @@
   "author": "Debopam Gupta",
   "license": "MIT",
   "dependencies": {
+    "clipboardy": "^3.0.0",
     "meow": "^10.1.2",
     "normalize-url": "^7.0.3"
   }
